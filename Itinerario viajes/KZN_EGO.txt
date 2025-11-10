@@ -1,0 +1,11 @@
+---
+Flight: KZN to EGO
+Carrier: Aerocondor
+Duration: 93 minutes
+Cost: 270 euros
+Total Cost: 270 euros
+---
+Number of Stops: 1
+---
+Total Flight Duration: 93 minutes
+---

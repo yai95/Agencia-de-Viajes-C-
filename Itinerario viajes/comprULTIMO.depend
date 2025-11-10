@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1528192813 source:c:\users\usuario\desktop\nueva carpeta (11)\comprultimo\aeropuerto.cpp
+	"aeropuerto.hpp"
+	<iostream>
+
+1528192813 c:\users\usuario\desktop\nueva carpeta (11)\comprultimo\aeropuerto.hpp
+	<string>
+
+1528192813 source:c:\users\usuario\desktop\nueva carpeta (11)\comprultimo\aeropuertos.cpp
+	"aeropuertos.hpp"
+	<iostream>
+	<fstream>
+
+1528192813 c:\users\usuario\desktop\nueva carpeta (11)\comprultimo\aeropuertos.hpp
+	"aeropuerto.hpp"
+	<string>
+
+1528192813 source:c:\users\usuario\desktop\nueva carpeta (11)\comprultimo\ruta.cpp
+	"ruta.hpp"
+
+1528192813 c:\users\usuario\desktop\nueva carpeta (11)\comprultimo\ruta.hpp
+	<iostream>
+
+1528193091 source:c:\users\usuario\desktop\nueva carpeta (11)\comprultimo\rutas.cpp
+	"rutas.hpp"
+	"aeropuertos.hpp"
+	<iostream>
+	<fstream>
+
+1528192813 c:\users\usuario\desktop\nueva carpeta (11)\comprultimo\rutas.hpp
+	"ruta.hpp"
+	"aeropuertos.hpp"
+	<string>
+
+1528150684 source:c:\users\usuario\desktop\nueva carpeta (11)\comprultimo\test_rutas.cpp
+	"ruta.hpp"
+	"aeropuerto.hpp"
+	"aeropuertos.hpp"
+	"rutas.hpp"
+	<iostream>
+	<string>
+	<cassert>
+
